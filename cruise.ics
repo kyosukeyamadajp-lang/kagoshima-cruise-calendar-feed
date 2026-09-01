@@ -629,7 +629,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ab29a261db7d26cf0fc27e1d@kagoshima-cruise-calendar
 DTSTAMP:20260101T000000Z
-DTSTART;TZID=Asia/Tokyo:20260706T080000
+DTSTART;TZID=Asia/Tokyo:20260706T073000
 DTEND;TZID=Asia/Tokyo:20260706T190000
 SUMMARY:🚢 ＭＳＣベリッシマ
 LOCATION:マリンポートかごしま
@@ -647,8 +647,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2e60c0204d2d15ad6453b53b@kagoshima-cruise-calendar
 DTSTAMP:20260101T000000Z
-DTSTART;TZID=Asia/Tokyo:20260714T080000
-DTEND;TZID=Asia/Tokyo:20260714T200000
+DTSTART;TZID=Asia/Tokyo:20260714T073000
+DTEND;TZID=Asia/Tokyo:20260714T190000
 SUMMARY:🚢 スターナビゲーター
 LOCATION:マリンポートかごしま
 DESCRIPTION:係船場所：マリンポートかごしま\n前港：基隆\n次港：八代\n船籍：バハマ\n総トン数：75\,338トン\n出典：鹿児島県 鹿児島港観光客船入港予定
@@ -714,7 +714,7 @@ DTSTART;TZID=Asia/Tokyo:20260825T080000
 DTEND;TZID=Asia/Tokyo:20260825T200000
 SUMMARY:🚢 スターナビゲーター
 LOCATION:マリンポートかごしま
-DESCRIPTION:係船場所：マリンポートかごしま\n前港：基隆\n次港：八代\n船籍：バハマ\n総トン数：75\,338トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：基隆\n次港：佐世保\n船籍：バハマ\n総トン数：75\,338トン\n出典：鹿児島県 鹿児島港観光客船入港予定
 END:VEVENT
 BEGIN:VEVENT
 UID:f451a24161588ef810ed1f29@kagoshima-cruise-calendar
@@ -777,7 +777,7 @@ DTSTART;TZID=Asia/Tokyo:20260915T080000
 DTEND;TZID=Asia/Tokyo:20260915T200000
 SUMMARY:🚢 スターナビゲーター
 LOCATION:マリンポートかごしま
-DESCRIPTION:係船場所：マリンポートかごしま\n前港：基隆\n次港：八代\n船籍：バハマ\n総トン数：75\,338トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：基隆\n次港：佐世保\n船籍：バハマ\n総トン数：75\,338トン\n出典：鹿児島県 鹿児島港観光客船入港予定
 END:VEVENT
 BEGIN:VEVENT
 UID:dd0e4a13c79bf27ee9a2233d@kagoshima-cruise-calendar
@@ -858,7 +858,7 @@ DTSTART;TZID=Asia/Tokyo:20261010T080000
 DTEND;TZID=Asia/Tokyo:20261010T170000
 SUMMARY:🚢 スターシーカー
 LOCATION:北ふ頭
-DESCRIPTION:係船場所：北ふ頭\n前港：清水\n次港：長崎\n船籍：バハマ\n総トン数：10\,204トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+DESCRIPTION:係船場所：北ふ頭\n前港：新宮\n次港：長崎\n船籍：バハマ\n総トン数：10\,204トン\n出典：鹿児島県 鹿児島港観光客船入港予定
 END:VEVENT
 BEGIN:VEVENT
 UID:989c79cd6c0bae21acf3b891@kagoshima-cruise-calendar
@@ -906,13 +906,13 @@ LOCATION:北ふ頭
 DESCRIPTION:係船場所：北ふ頭\n前港：長崎\n次港：東京\n船籍：マルタ\n総トン数：48\,072トン\n出典：鹿児島県 鹿児島港観光客船入港予定
 END:VEVENT
 BEGIN:VEVENT
-UID:9c5223c003b65ad7b57e75c7@kagoshima-cruise-calendar
+UID:195495065b97ce3d3c8b14da@kagoshima-cruise-calendar
 DTSTAMP:20260101T000000Z
-DTSTART;TZID=Asia/Tokyo:20261020T080000
+DTSTART;TZID=Asia/Tokyo:20261021T110000
 DTEND;TZID=Asia/Tokyo:20261020T200000
 SUMMARY:🚢 スターナビゲーター
 LOCATION:マリンポートかごしま
-DESCRIPTION:係船場所：マリンポートかごしま\n前港：基隆\n次港：八代\n船籍：バハマ\n総トン数：75\,338トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：済州\n次港：那覇\n船籍：バハマ\n総トン数：75\,338トン\n出典：鹿児島県 鹿児島港観光客船入港予定
 END:VEVENT
 BEGIN:VEVENT
 UID:f0af0057bfdccd8571474069@kagoshima-cruise-calendar
@@ -994,5 +994,140 @@ DTEND;TZID=Asia/Tokyo:20261030T170000
 SUMMARY:🚢 スターシーカー
 LOCATION:北ふ頭
 DESCRIPTION:係船場所：北ふ頭\n前港：新宮\n次港：長崎\n船籍：バハマ\n総トン数：10\,204トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:d94afb71bcc44690afef8b7e@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261101T083000
+DTEND;TZID=Asia/Tokyo:20261101T190000
+SUMMARY:🚢 ＭＳＣベリッシマ
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：韓国\n次港：東京\n船籍：マルタ\n総トン数：171\,598トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:8621e6756a0d688a5de8495c@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261102T120000
+DTEND;TZID=Asia/Tokyo:20261102T190000
+SUMMARY:🚢 シルバームーン
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：東京\n次港：長崎\n船籍：バハマ\n総トン数：40\,844トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:dd982f38865ee8340403f79f@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261106T080000
+DTEND;TZID=Asia/Tokyo:20261106T140000
+SUMMARY:🚢 ルミナラ
+LOCATION:北ふ頭
+DESCRIPTION:係船場所：北ふ頭\n前港：佐世保\n次港：東京\n船籍：マルタ\n総トン数：48\,072トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:376d4b9106e79cb7193cbd25@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261107T090000
+DTEND;TZID=Asia/Tokyo:20261107T180000
+SUMMARY:🚢 ダイヤモンドプリンセス
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：長崎\n次港：油津\n船籍：バミューダ\n総トン数：115\,906トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:9b9969b01db88753a104367d@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261110T083000
+DTEND;TZID=Asia/Tokyo:20261110T190000
+SUMMARY:🚢 ＭＳＣベリッシマ
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：韓国\n次港：東京\n船籍：マルタ\n総トン数：171\,598トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:2613ecd8bec2c0fb577723c0@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261111T080000
+DTEND;TZID=Asia/Tokyo:20261111T170000
+SUMMARY:🚢 飛鳥Ⅲ
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：細島\n次港：横浜\n船籍：日本\n総トン数：52\,200トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:99b4ccae501e46e8d3845fb7@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261113T080000
+DTEND;TZID=Asia/Tokyo:20261113T180000
+SUMMARY:🚢 シーボーンアンコール
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：長崎\n次港：大阪\n船籍：バハマ\n総トン数：41\,865トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:7de0430f2ff15bb39f911297@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261114T080000
+DTEND;TZID=Asia/Tokyo:20261114T160000
+SUMMARY:🚢 ＭＳＣベリッシマ
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：東京\n次港：那覇\n船籍：マルタ\n総トン数：171\,598トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:048a87a107ac262ca8ddd467@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261117T080000
+DTEND;TZID=Asia/Tokyo:20261117T200000
+SUMMARY:🚢 スターナビゲーター
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：基隆\n次港：佐世保\n船籍：バハマ\n総トン数：75\,338トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:f112d8bf807b2c915e91d23b@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261118T103000
+DTEND;TZID=Asia/Tokyo:20261118T183000
+SUMMARY:🚢 ノルウェージャンジェイド
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：広島\n次港：長崎\n船籍：バハマ\n総トン数：93\,558トン\n備考：初寄港\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:9c0c6f4b204b58aca1dc85d3@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261119T070000
+DTEND;TZID=Asia/Tokyo:20261119T160000
+SUMMARY:🚢 ダイヤモンドプリンセス
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：長崎\n次港：別府\n船籍：バミューダ\n総トン数：115\,906トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:4a27fe28d31444b9e5a4d3db@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261124T070000
+DTEND;TZID=Asia/Tokyo:20261124T143000
+SUMMARY:🚢 ノルウェージャンジェイド
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：長崎\n次港：広島\n船籍：バハマ\n総トン数：93\,558トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:e6df452f020d1e12ebea8b8e@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261125T070000
+DTEND;TZID=Asia/Tokyo:20261125T190000
+SUMMARY:🚢 スペクトラムオブザシーズ
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：香港\n次港：長崎\n船籍：キプロス\n総トン数：169\,379トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:5612d69837b46912991a1104@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261127T090000
+DTEND;TZID=Asia/Tokyo:20261127T180000
+SUMMARY:🚢 ダイヤモンドプリンセス
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：横浜\n次港：長崎\n船籍：バミューダ\n総トン数：115\,906トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+END:VEVENT
+BEGIN:VEVENT
+UID:ad396be2bc5cd3e0471dc563@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261128T080000
+DTEND;TZID=Asia/Tokyo:20261128T170000
+SUMMARY:🚢 イースタンビーナス
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：長崎\n次港：釜山\n船籍：パナマ\n総トン数：26\,594トン\n出典：鹿児島県 鹿児島港観光客船入港予定
 END:VEVENT
 END:VCALENDAR
