@@ -909,7 +909,7 @@ BEGIN:VEVENT
 UID:195495065b97ce3d3c8b14da@kagoshima-cruise-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Asia/Tokyo:20261021T110000
-DTEND;TZID=Asia/Tokyo:20261020T200000
+DTEND;TZID=Asia/Tokyo:20261021T200000
 SUMMARY:🚢 スターナビゲーター
 LOCATION:マリンポートかごしま
 DESCRIPTION:係船場所：マリンポートかごしま\n前港：済州\n次港：那覇\n船籍：バハマ\n総トン数：75\,338トン\n出典：鹿児島県 鹿児島港観光客船入港予定
