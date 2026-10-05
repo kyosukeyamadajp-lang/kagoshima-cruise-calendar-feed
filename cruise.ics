@@ -1130,4 +1130,13 @@ SUMMARY:🚢 イースタンビーナス
 LOCATION:マリンポートかごしま
 DESCRIPTION:係船場所：マリンポートかごしま\n前港：長崎\n次港：釜山\n船籍：パナマ\n総トン数：26\,594トン\n出典：鹿児島県 鹿児島港観光客船入港予定
 END:VEVENT
+BEGIN:VEVENT
+UID:cd660231e95f4ff6d3a94195@kagoshima-cruise-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Tokyo:20261006T090000
+DTEND;TZID=Asia/Tokyo:20261006T180000
+SUMMARY:🚢 カーニバル・ルミノーザ
+LOCATION:マリンポートかごしま
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：高知\n次港：別府\n船籍：\n総トン数：\n備考：台風の影響 初寄港\n出典：家族LINE（臨時寄港）\n【緊急変更】ADD\n速報出典：家族LINE\n受信：2026-10-05T10:13:03.216000+09:00
+END:VEVENT
 END:VCALENDAR
