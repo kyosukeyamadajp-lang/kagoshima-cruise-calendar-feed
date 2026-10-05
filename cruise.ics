@@ -1133,10 +1133,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cd660231e95f4ff6d3a94195@kagoshima-cruise-calendar
 DTSTAMP:20260101T000000Z
-DTSTART;TZID=Asia/Tokyo:20261006T090000
+DTSTART;TZID=Asia/Tokyo:20261006T070000
 DTEND;TZID=Asia/Tokyo:20261006T180000
 SUMMARY:🚢 カーニバル・ルミノーザ
 LOCATION:マリンポートかごしま
-DESCRIPTION:係船場所：マリンポートかごしま\n前港：高知\n次港：別府\n船籍：\n総トン数：\n備考：台風の影響 初寄港\n出典：家族LINE（臨時寄港）\n【緊急変更】ADD\n速報出典：家族LINE\n受信：2026-10-05T10:13:03.216000+09:00
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：高知\n次港：別府\n船籍：\n総トン数：\n備考：台風の影響 初寄港\n出典：家族LINE（臨時寄港）\n【緊急変更】UPDATE\n速報出典：家族LINE\n受信：2026-10-05T17:19:14.985000+09:00
 END:VEVENT
 END:VCALENDAR
