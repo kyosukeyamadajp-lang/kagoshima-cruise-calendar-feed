@@ -910,9 +910,9 @@ UID:195495065b97ce3d3c8b14da@kagoshima-cruise-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Asia/Tokyo:20261021T110000
 DTEND;TZID=Asia/Tokyo:20261021T200000
-SUMMARY:🚢 スターナビゲーター
+SUMMARY:❌ 寄港中止｜スターナビゲーター
 LOCATION:マリンポートかごしま
-DESCRIPTION:係船場所：マリンポートかごしま\n前港：済州\n次港：那覇\n船籍：バハマ\n総トン数：75\,338トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：済州\n次港：那覇\n船籍：バハマ\n総トン数：75\,338トン\n備考：台風30号の影響\n出典：鹿児島県 鹿児島港観光客船入港予定\n【緊急変更】CANCEL\n速報出典：家族LINE\n受信：2026-10-19T10:25:34.519000+09:00
 END:VEVENT
 BEGIN:VEVENT
 UID:f0af0057bfdccd8571474069@kagoshima-cruise-calendar
