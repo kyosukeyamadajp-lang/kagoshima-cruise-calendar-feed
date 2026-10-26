@@ -953,11 +953,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6b79a42a65214bf51195d5e1@kagoshima-cruise-calendar
 DTSTAMP:20260101T000000Z
-DTSTART;TZID=Asia/Tokyo:20261027T080000
+DTSTART;TZID=Asia/Tokyo:20261027T073000
 DTEND;TZID=Asia/Tokyo:20261027T170000
 SUMMARY:🚢 ウェステルダム
 LOCATION:マリンポートかごしま
-DESCRIPTION:係船場所：マリンポートかごしま\n前港：清水\n次港：長崎\n船籍：オランダ\n総トン数：82\,862トン\n出典：鹿児島県 鹿児島港観光客船入港予定
+DESCRIPTION:係船場所：マリンポートかごしま\n前港：清水\n次港：長崎\n船籍：オランダ\n総トン数：82\,862トン\n備考：原文のウエステルダムは既存予定のウェステルダムと同一船。清水から入港し長崎へ出港。当初予定から入港時間を変更。\n出典：鹿児島県 鹿児島港観光客船入港予定\n【緊急変更】UPDATE\n速報出典：家族LINE\n受信：2026-10-26T15:20:17.132000+09:00
 END:VEVENT
 BEGIN:VEVENT
 UID:4da0f2ddea8d5806545525c5@kagoshima-cruise-calendar
